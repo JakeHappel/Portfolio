@@ -1,0 +1,95 @@
+.App {
+  text-align: center;
+  font-family: 'Varela Round', sans-serif;
+}
+.Home{
+  display: flex;
+  flex-direction: column;
+  height: fit-content;
+  font-family: 'Varela Round', sans-serif;
+}
+.Jake{
+  height: 4%;
+  width: 4%;
+  border-radius: 50%;
+  margin: 1%;
+}
+.FirstP{
+  display: flex;
+  flex-direction: column;
+  margin: auto;
+  width: 40%;
+  margin-top: 5%;
+  color: rgb(240, 248, 255);
+  /* border:1px solid #61dafb; */
+}
+.Icons{
+  display: flex;
+  justify-content:space-around;
+  width: 15%;
+  padding: 1%;
+  /* border:1px solid #61dafb; */
+  margin: auto;
+}
+.Icon{
+  color: black;
+}
+h1{
+  font-weight: bold;
+  text-decoration: underline;
+  font-size: 5rem;
+  line-height: 1.1;
+  letter-spacing: -1px;
+  margin-bottom: 0%;
+  text-align: start;
+  margin-left: 6%;
+  padding: 0%;
+}
+h2{
+  font-weight: bold;
+  font-size: 5rem;
+  align-content: center;
+  line-height: 1.1;
+  letter-spacing: -1px;
+  margin-bottom: 0%;
+}
+h3{
+  font-weight: bolder;
+  font-size: 3rem;
+  margin: 0%;
+}
+p{
+  font-size: 1.5rem;
+}
+header{
+  display: flex;
+  justify-content: space-between;
+  /* border:1px solid #61dafb; */
+}
+nav{
+    /* border: 1px solid white; */
+    margin:2%;
+    margin-right: 4%;
+}
+.navbar{
+  text-decoration: none;
+  font-size: 1.5rem;
+  color: black;
+  font-weight: bold;
+  margin: 5%;
+}
+.skills{
+  display: flex;
+  justify-content:space-evenly;
+  flex-wrap: wrap; 
+  padding: 3%;
+  /* border:1px solid #61dafb; */
+  margin: auto;
+  margin-top: 0%;
+}
+.page2{
+  background-color: white;
+}
+.App-link {
+  color: #61dafb;
+}
