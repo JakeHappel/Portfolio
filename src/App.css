@@ -19,7 +19,7 @@
   flex-direction: column;
   margin: auto;
   width: 40%;
-  margin-top: 5%;
+  margin-top: 4%;
   color: rgb(240, 248, 255);
   /* border:1px solid #61dafb; */
 }
@@ -34,6 +34,16 @@
 .Icon{
   color: black;
 }
+.Projects{
+  display: flex;
+}
+.Potluck{
+  width: 25%;
+}
+.Nasa{
+  width: 25%;
+}
+
 h1{
   font-weight: bold;
   text-decoration: underline;
